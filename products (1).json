@@ -71,4 +71,11 @@
         "price": 14.99,
         "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
     }
+         "id": 10,
+        "name": "Hamburguesa",
+        "qualification": 4.6,
+        "time": "10-15min",
+        "price": 14.99,
+        "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    }
 ]
